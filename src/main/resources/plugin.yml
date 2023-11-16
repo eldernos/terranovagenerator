@@ -1,0 +1,5 @@
+name: TerraNova Generator
+version: '${project.version}'
+main: com.newtindustries.terranovagenerator.TerraNovaGenerator
+api-version: '1.20'
+load: STARTUP
